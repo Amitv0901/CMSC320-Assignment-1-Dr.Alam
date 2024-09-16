@@ -7,8 +7,9 @@ Answer: Biology uses data science, one example is DNA which uses a lot of data t
 
 Q3: What is the difference between merging and rebasing?
 
-Answer: [Your answer here]
 
 Q4: What skills do you hope to improve during this course?
 
 Answer: My database, python, and SQL skills
+Answer: Merging combines one branch into another creating a new commit. Rebasing moves changes from one branch onto another
+
