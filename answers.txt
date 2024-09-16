@@ -1,3 +1,5 @@
 Q1: Why might be consider using git?
+Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Git is a version control that allows us to see changes in git 
+Answer: Biology uses data science, one example is DNA which uses a lot of data to process.
