@@ -5,3 +5,8 @@ Answer: Git is a version control that allows us to see changes in code
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Biology is a field that implements data science, one example is DNA which has tons of Data
+
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preserves entire history and rebasing keeps a linear history
